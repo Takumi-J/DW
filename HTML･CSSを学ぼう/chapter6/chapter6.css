@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.img-zone {
+  width: 100%;
+
+}
+
+.img-box1 {
+  background-image:url(img/box1.jpg) ;
+  box-sizing: cover;
+  height: 200px;
+  background-position: center;
+}
+
+.img-box2 {
+  background-image:url(img/box2.jpg) ;
+  box-sizing: cover;
+  height: 200px;
+  background-position: center;
+}
+
+.img-box3 {
+  background-image:url(img/box3.jpg) ;
+  box-sizing: cover;
+  height: 200px;
+  background-position: center;
+}
+
+.img-box4 {
+  background-image:url(img/box4.jpg) ;
+  box-sizing: cover;
+  height: 200px;
+  background-position: center;
+}
